@@ -22,3 +22,15 @@ git push -u origin main
 ## Doks
 
 [Documentation](https://getdoks.org/).
+
+## Déploiement GitHub pages
+
+- Modifier config/_default/config.toml
+
+```
+baseurl = "https://github.com/cyrilleledean/portfolio/"
+```
+
+- Ajouter le fichier .github/workflows/deploy.yml
+
+[Deploy your Thulite Site to GitHub Pages](https://docs.thulite.io/guides/deploy/github/)

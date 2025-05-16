@@ -1,5 +1,5 @@
-title = "My Docs"
-baseurl = "http://localhost/"
+title = "FromDevToData"
+baseurl = "https://github.com/cyrilleledean/portfolio/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
