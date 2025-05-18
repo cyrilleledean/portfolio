@@ -32,5 +32,3 @@ baseurl = "https://github.com/cyrilleledean/portfolio/"
 ```
 
 - Ajouter le fichier .github/workflows/deploy.yml
-
-[Deploy your Thulite Site to GitHub Pages](https://docs.thulite.io/guides/deploy/github/)
