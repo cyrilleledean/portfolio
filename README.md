@@ -34,4 +34,4 @@ baseurl = "https://github.com/cyrilleledean/portfolio/"
 - Ajouter le fichier .github/workflows/deploy.yml
 
 
-- URL du site: https://cyrilleledean.github.io/portfolio/projets/datascientest/introduction/
+- URL du site: https://cyrilleledean.github.io/portfolio/datascientest/introduction/
