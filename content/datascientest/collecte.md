@@ -376,7 +376,7 @@ https\://data.geopf.fr/telechargement/download/ADMIN-EXPRESS-COG-CARTO/ADMIN-EXP
 
     - **naf2008_liste_n3.csv**: groupes
 
-    - **naf2008_liste_n4.csv**: clases
+    - **naf2008_liste_n4.csv**: classes
 
     - **naf2008_liste_n5.csv**: sous-classes
 

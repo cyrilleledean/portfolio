@@ -264,11 +264,9 @@ models:
 
 ![dbt-docs-model](/images/dbt-docs-model.png)
 
-## Description des modèles et des transformations effectuées
+## Description des modèles et des transformations
 
 ### dim_naf: un cas concret de dénormalisation
-
-#### Anatomie d'un modèle de transformation dbt
 
 - Dans le modèle dim_naf.sql, nous allons dénormaliser les 5 niveaux de la nomenclure NAF dans une seule table cible dim_dim. Nous utilisons la notation CTE (Common Table Expression) pour référencer les objets de notre **source de données collecte_naf** en utilisant les balises jinja du moteur de template.
 
