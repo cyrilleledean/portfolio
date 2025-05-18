@@ -11,3 +11,4 @@ Ce site est la documentation de mon projet de fin d'études d'une formation de D
 
 [Programme formation DataScientest Data Engineer](https://datascientest.com/formation-data-engineer)
 
+![vue-fonctionnelle](/images/vue-fonctionnelle.png)
